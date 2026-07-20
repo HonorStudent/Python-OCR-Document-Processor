@@ -34,7 +34,7 @@ This project was created to simplify the process of converting screenshots and s
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/Python-OCR-Document-Processor.git
+git clone https://github.com/HonorStudent/Python-OCR-Document-Processor.git
 ```
 
 Install the required packages:
