@@ -75,6 +75,12 @@ While developing this project, I gained experience with:
 - Microsoft Word document generation
 - Working with third-party Python libraries
 
+## Development Note
+
+This project was developed by me with the assistance of ChatGPT as a programming aid. ChatGPT was used to help explain programming concepts, troubleshoot errors, review code, and suggest implementation approaches.
+
+I was responsible for designing the project, understanding the code, testing the application, integrating the final solution, and making decisions about its functionality.
+
 ## Author
 
 Joshua Thomas
